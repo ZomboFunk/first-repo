@@ -1,1 +1,2 @@
 Hello, I'm a file.
+Hello again, I am still a file but I've been modified slightly.
